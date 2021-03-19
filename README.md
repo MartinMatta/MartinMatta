@@ -4,7 +4,7 @@
 
 ##### Bio
 - 🔭 I’m currently working on app for android
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning kotlin and javascript
 
 ### 🛠 &nbsp;Tech Stack
 
