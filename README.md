@@ -2,10 +2,6 @@
 
 #### I'm a student living in Vranov nad Topľou, Slovakia.
 
-##### Bio
-- 🔭 I’m currently working on app for android
-- 🌱 I’m currently learning kotlin
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
